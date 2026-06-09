@@ -4,7 +4,7 @@ This repository contains the projects completed during the CodeAlpha Internship.
 
 ## Task 1: FAQ Chatbot
 
-* A chatbot that answers frequently asked questions using NLP-based text matching.
+* An e-commerce FAQ chatbot that answers frequently asked questions using NLP-based text matching.
 * Folder: `FAQ-Chatbot`
 
 ## Task 2: Language Translator
